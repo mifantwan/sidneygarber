@@ -1,0 +1,1 @@
+(self.webpackChunkvidiproject=self.webpackChunkvidiproject||[]).push([[143],{637:function(e,u,t){"use strict";var c=t(735),i=t(710),n=t(677);t.g.$=t.g.jQuery=n,c.use(i)}},function(e){"use strict";e.O(0,[541],(function(){return u=637,e(e.s=u);var u}));e.O()}]);
